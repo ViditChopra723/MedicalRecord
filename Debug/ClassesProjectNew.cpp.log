@@ -1,0 +1,9 @@
+﻿  Source.cpp
+c:\users\vidit\source\repos\classesprojectnew.cpp\classesprojectnew.cpp\source.cpp(127): warning C4018: '<': signed/unsigned mismatch
+c:\users\vidit\source\repos\classesprojectnew.cpp\classesprojectnew.cpp\source.cpp(134): warning C4018: '<': signed/unsigned mismatch
+c:\users\vidit\source\repos\classesprojectnew.cpp\classesprojectnew.cpp\source.cpp(159): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  patient.cpp
+  ClassesProjectNew.cpp.vcxproj -> C:\Users\Vidit\source\repos\ClassesProjectNew.cpp\Debug\ClassesProjectNew.cpp.exe
+  ClassesProjectNew.cpp.vcxproj -> C:\Users\Vidit\source\repos\ClassesProjectNew.cpp\Debug\ClassesProjectNew.cpp.pdb (Partial PDB)
